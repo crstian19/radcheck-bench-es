@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "RadCheck-Bench-ES"
+abstract: >-
+  A benchmark for detecting internal inconsistencies in Spanish radiology reports:
+  contradictions of laterality, negation and measurement that can be verified from the
+  text alone, with 200 clean reports (half of them hard negatives), plus a separate track
+  for omissions and dictation typos.
+version: "1.0.0"
+date-released: "2026-10-31"
+license: CC-BY-4.0
+authors:
+  - family-names: "Gutierrez"
+    given-names: "Cristian"
+repository-code: "https://github.com/crstian19/radcheck-bench-es"
+url: "https://github.com/crstian19/radcheck-bench-es"
+keywords:
+  - radiology
+  - spanish
+  - benchmark
+  - nlp
+  - evaluation
+  - inconsistency-detection

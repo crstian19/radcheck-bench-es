@@ -1,0 +1,42 @@
+RadCheck-Bench-ES v1 — data licence
+===================================
+
+The benchmark data in this repository is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+What this covers
+----------------
+    data/dev.jsonl
+    data/test.jsonl
+    data/extra.jsonl
+    data/raw.jsonl
+    data/specs.jsonl
+    data/review.jsonl
+    data/stats.json
+    report/report.html
+    review/radiologist_review.md
+
+What it lets you do
+-------------------
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform and build upon the material for any purpose,
+including commercially.
+
+Under one condition
+-------------------
+Attribution — you must give appropriate credit, provide a link to the licence,
+and indicate if changes were made. A suitable attribution:
+
+    RadCheck-Bench-ES v1 by Cristian Gutierrez, licensed under CC BY 4.0.
+
+Notes
+-----
+1. All report text is synthetic and was written by a language model from scratch.
+   It contains no real patient data and is not derived from any patient record
+   or from the CARES corpus.
+
+2. The code in this repository (scripts/, evaluate/, tests/) is licensed under
+   the MIT licence; see LICENSE.
